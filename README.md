@@ -91,8 +91,8 @@
 
 <p align="left">
   <a href="https://portfolio-ten-iota-o0zvq66iyb.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-Portfolio-black?style=flat-square&logo=vercel" alt="Portfolio" /></a>
-  <a href="[https://www.linkedin.com/in/vikas-salgude-91992a289/]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:[vikasslagude04]" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vikas-salgude-91992a289/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto: vikasslagude04" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email" /></a>
 </p>
 
 <br>
