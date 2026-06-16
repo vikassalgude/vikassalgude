@@ -43,17 +43,26 @@
 
 ## 📊 Developer Metrics & Competitive Programming
 
+
+
+## 📈 Recent Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassalgude&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=vikassalgude&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassalgude&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Vikas's Activity Graph" />
 </div>
 <br>
 <div align="center">
   <a href="https://leetcode.com/vikas_salgude/">
     <img src="https://leetcard.jacoblin.cool/vikas_salgude?theme=radical&ext=heatmap" width="48%" alt="LeetCode Stats" />
   </a>
+</div>
+<br>
+<div align="center">
   <a href="https://codeforces.com/profile/vikassalgude04">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vikassalgude04&theme=radical&disable_animations=false" width="48%" alt="Codeforces Stats" />
+    <img src="https://img.shields.io/badge/Codeforces-vikassalgude04-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/slow_pearly_82">
+    <img src="https://img.shields.io/badge/CodeChef-2%20Star-8B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </div>
 
@@ -82,11 +91,9 @@
 
 <p align="left">
   <a href="https://portfolio-ten-iota-o0zvq66iyb.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-Portfolio-black?style=flat-square&logo=vercel" alt="Portfolio" /></a>
-  <a href="[Replace with your LinkedIn URL]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:[Replace with your email]" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="[https://www.linkedin.com/in/vikas-salgude-91992a289/]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:[vikasslagude04]" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email" /></a>
 </p>
 
 <br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikassalgude&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
+
