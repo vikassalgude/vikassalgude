@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Backend Engineer | Competitive Programmer</h3>
 
 <p align="center">
-  <a href="https://portfolio-ten-iota-o0zvq66iyb.vercel.app/" target="_blank">
+  <a href="https://vikas-psi-sable.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <img src="https://komarev.com/ghpvc/?username=vikassalgude&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
